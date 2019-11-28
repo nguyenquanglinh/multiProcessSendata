@@ -1,0 +1,6 @@
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\SendDataBetweenProcesses\Proc1\bin\Debug\Proc1.exe.config
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\SendDataBetweenProcesses\Proc1\bin\Debug\Proc1.exe
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\SendDataBetweenProcesses\Proc1\bin\Debug\Proc1.pdb
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\SendDataBetweenProcesses\Proc1\obj\Debug\Proc1.csprojResolveAssemblyReference.cache
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\SendDataBetweenProcesses\Proc1\obj\Debug\Proc1.exe
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\SendDataBetweenProcesses\Proc1\obj\Debug\Proc1.pdb

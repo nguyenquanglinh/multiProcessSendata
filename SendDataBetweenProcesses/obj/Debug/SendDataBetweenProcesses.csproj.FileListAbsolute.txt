@@ -1,0 +1,13 @@
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\SendDataBetweenProcesses\SendDataBetweenProcesses\bin\Debug\SendDataBetweenProcesses.exe.config
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\SendDataBetweenProcesses\SendDataBetweenProcesses\bin\Debug\SendDataBetweenProcesses.exe
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\SendDataBetweenProcesses\SendDataBetweenProcesses\bin\Debug\SendDataBetweenProcesses.pdb
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\SendDataBetweenProcesses\SendDataBetweenProcesses\obj\Debug\SendDataBetweenProcesses.csprojResolveAssemblyReference.cache
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\SendDataBetweenProcesses\SendDataBetweenProcesses\obj\Debug\SendDataBetweenProcesses.Properties.Resources.resources
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\SendDataBetweenProcesses\SendDataBetweenProcesses\obj\Debug\SendDataBetweenProcesses.csproj.GenerateResource.Cache
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\SendDataBetweenProcesses\SendDataBetweenProcesses\obj\Debug\SendDataBetweenProcesses.exe
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\SendDataBetweenProcesses\SendDataBetweenProcesses\obj\Debug\SendDataBetweenProcesses.pdb
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\SendDataBetweenProcesses\SendDataBetweenProcesses\obj\Debug\SendDataBetweenProcesses.Form1.resources
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\SendDataBetweenProcesses\SendDataBetweenProcesses\obj\Debug\SendDataBetweenProcesses.TinhToan.resources
+E:\C#\multiProcessSendata\SendDataBetweenProcesses\bin\Debug\SendDataBetweenProcesses.exe.config
+E:\C#\multiProcessSendata\SendDataBetweenProcesses\obj\Debug\SendDataBetweenProcesses.exe
+E:\C#\multiProcessSendata\SendDataBetweenProcesses\obj\Debug\SendDataBetweenProcesses.pdb
